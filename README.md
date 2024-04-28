@@ -71,14 +71,14 @@ else begin
 
 
 **RTL LOGIC FOR FLIPFLOPS**
-```
+
 ![image](https://github.com/Hemanthreddy0321/SR-FLIPFLOP-USING-CASE/assets/150005937/34a6959f-035c-4f79-8a01-d68765b9b13c)
-```
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-```
+
 ![image](https://github.com/Hemanthreddy0321/SR-FLIPFLOP-USING-CASE/assets/150005937/32da844d-8bce-44d6-8e81-bbd7ad47c532)
-```
+
 
 **RESULTS**
 Thus, SR flipflop has been implemented using verilog and their functionality has been validated using their functional tables.
