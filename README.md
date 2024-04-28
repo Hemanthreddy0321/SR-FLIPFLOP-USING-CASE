@@ -45,6 +45,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 **PROGRAM**
+```
 NAME : HEMANTH A
 REGISTER NUMBER:212223220035
 module sr_ff(q, q_bar, s,r,clk, reset);
@@ -66,6 +67,7 @@ else begin
   end	
   assign q_bar = ~q;
   endmodule
+```
 
 
 **RTL LOGIC FOR FLIPFLOPS**
